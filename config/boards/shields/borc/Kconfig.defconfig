@@ -1,0 +1,6 @@
+if SHIELD_BORC
+
+config ZMK_KEYBOARD_NAME
+    default "borc"
+
+endif
